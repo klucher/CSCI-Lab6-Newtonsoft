@@ -1,0 +1,111 @@
+{
+  "kind": "books#volume",
+  "id": "VsT3DQAAQBAJ",
+  "etag": "voP5Tovt65s",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/VsT3DQAAQBAJ",
+  "volumeInfo": {
+    "title": "Oathbringer",
+    "subtitle": "Book Three of the Stormlight Archive",
+    "authors": [
+      "Brandon Sanderson"
+    ],
+    "publisher": "Tom Doherty Associates",
+    "publishedDate": "2017-11-14",
+    "description": "\u003cp\u003e\u003cb\u003eThe #1 \u003ci\u003eNew York Times\u003c/i\u003e bestselling sequel to \u003ci\u003eWords of Radiance\u003c/i\u003e, from epic fantasy author Brandon Sanderson at the top of his game.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eIn \u003ci\u003eOathbringer\u003c/i\u003e, the third volume of the \u003ci\u003eNew York Times\u003c/i\u003e bestselling Stormlight Archive, humanity faces a new Desolation with the return of the Voidbringers, a foe with numbers as great as their thirst for vengeance.\u003cbr\u003e\u003cbr\u003eDalinar Kholin’s Alethi armies won a fleeting victory at a terrible cost: The enemy Parshendi summoned the violent Everstorm, which now sweeps the world with destruction, and in its passing awakens the once peaceful and subservient parshmen to the horror of their millennia-long enslavement by humans. While on a desperate flight to warn his family of the threat, Kaladin Stormblessed must come to grips with the fact that the newly kindled anger of the parshmen may be wholly justified.\u003cbr\u003e\u003cbr\u003eNestled in the mountains high above the storms, in the tower city of Urithiru, Shallan Davar investigates the wonders of the ancient stronghold of the Knights Radiant and unearths dark secrets lurking in its depths. And Dalinar realizes that his holy mission to unite his homeland of Alethkar was too narrow in scope. Unless all the nations of Roshar can put aside Dalinar’s blood-soaked past and stand together—and unless Dalinar himself can confront that past—even the restoration of the Knights Radiant will not prevent the end of civilization.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eOther Tor books by Brandon Sanderson\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e \u003cb\u003eThe Cosmere\u003c/b\u003e\u003cbr\u003e \u003cb\u003e\u003cbr\u003e The Stormlight Archive\u003c/b\u003e\u003cbr\u003e \u003ci\u003eThe Way of Kings\u003c/i\u003e\u003cbr\u003e \u003ci\u003eWords of Radiance\u003c/i\u003e\u003cbr\u003e \u003ci\u003eEdgedancer \u003c/i\u003e(Novella)\u003cbr\u003e \u003ci\u003eOathbringer\u003c/i\u003e \u003cb\u003e\u003cbr\u003e\u003cbr\u003e The Mistborn trilogy\u003c/b\u003e\u003cbr\u003e \u003ci\u003eMistborn: The Final Empire\u003cbr\u003e The Well of Ascension\u003cbr\u003e The Hero of Ages\u003cbr\u003e\u003cbr\u003e \u003c/i\u003e\u003cb\u003eMistborn: The Wax and Wayne series\u003c/b\u003e\u003cbr\u003e \u003ci\u003eAlloy of Law\u003cbr\u003e Shadows of Self\u003cbr\u003e Bands of Mourning\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e \u003cb\u003eCollection\u003c/b\u003e\u003cbr\u003e \u003ci\u003eArcanum Unbounded\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e \u003cb\u003eOther Cosmere novels\u003c/b\u003e\u003cbr\u003e \u003ci\u003eElantris\u003c/i\u003e\u003cbr\u003e \u003ci\u003eWarbreaker\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e \u003cb\u003eThe Alcatraz vs. the Evil Librarians series\u003c/b\u003e\u003cbr\u003e \u003ci\u003eAlcatraz vs. the Evil Librarians\u003c/i\u003e\u003cbr\u003e \u003ci\u003eThe Scrivener's Bones\u003c/i\u003e\u003cbr\u003e \u003ci\u003eThe Knights of Crystallia\u003c/i\u003e\u003cbr\u003e \u003ci\u003eThe Shattered Lens\u003c/i\u003e\u003cbr\u003e \u003ci\u003eThe Dark Talent\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e \u003cb\u003eThe Rithmatist series\u003cbr\u003e \u003c/b\u003e\u003ci\u003eThe Rithmatist\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e \u003cb\u003eOther books by Brandon Sanderson\u003c/b\u003e\u003cbr\u003e\u003cb\u003e\u003cbr\u003e The Reckoners\u003c/b\u003e\u003cbr\u003e \u003ci\u003eSteelheart\u003c/i\u003e\u003cbr\u003e \u003ci\u003eFirefight\u003c/i\u003e\u003cbr\u003e \u003ci\u003eCalamity\u003c/i\u003e\u003cbr\u003e\u003cbr\u003eAt the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0765399830"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780765399830"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 1248,
+    "printedPageCount": 1652,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Fantasy / Epic",
+      "Fiction / Fantasy / Military",
+      "Fiction / Fantasy / Action & Adventure"
+    ],
+    "averageRating": 4,
+    "ratingsCount": 22,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.19.19.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=VsT3DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71ecK7rxuGXtZcBjY53SlnnEnPHfrnXEEZkkPGAR0CpP75I4ViAk_A8NNnl2mZh9uR4SgEVqPxpCTN_efaKc1KrOsOJn1SLSJk1wYcKlN19deTSctaOjWmpOedfMwL_gBxaeS35&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=VsT3DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71HPXOoMcLAsDFQmdYn8floDwA59gYwF0NBq4PE5jQUlEFqxrK6WdL5pgnwhnuVdSE2XjuhHjOUjPwgYroV0wtuU05XSeSA-HoYSxS0I9p9B5Og5FrpewXxBTrvlMV4eTQJzvN1&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=VsT3DQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72JgcNq0OLcnvQFBcsh-xn-Qojz34xQtAxx5kvOdJP_-FahY7QLzdqd4J5OFYzBygnme6lonbNI5K1izBfG_mRdyy4BwQ9OHLvCNV8EpcA-nguEGUKRkLyITh_CeoNKSdKSXB4j&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=VsT3DQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE710Sdad2tG--PuXbwoW5YEKbRxJeZGkO82wVhHPULULHeb0VHYMc8SoeKIkkXx06_VgTOyK6oxepiiDQTJ9A50XxGMWkpzGNfckDIqdTg-GC_WgCXHxjw2D_gQOBflFVkwWS-u1&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=VsT3DQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71WLzs8Sx_4YECv2V8uSxQWf-VKFRDN2c3FM4re2lCs9H3mwW34Nrx9XgdxNi2oeHePVcS5AUxSH5Ybw2HX5mzWiJ3-9Om1cB8hMTZ4DYvqEESFFcNy0qckNcYrjJ1ir0A-hYiY&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=VsT3DQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72-Xf8uagLYc7AzcUI2v9hYxMLECyIYzWDyw0sVJf3JGC9I_ysJLXOuibqYPFIy2NjtRGu8_HWI3H7WIW3LdPBoTwhxWelMVBgDn1pyyFomrbTF6gX7y1UugRVpGTTN9vAyjRI1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VsT3DQAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VsT3DQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VsT3DQAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "28"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VsT3DQAAQBAJ&rdid=book-VsT3DQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 9990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 9990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VsT3DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

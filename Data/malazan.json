@@ -1,0 +1,108 @@
+{
+  "kind": "books#volume",
+  "id": "Jgth_BYe7V8C",
+  "etag": "n/KP/zLsI7Y",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/Jgth_BYe7V8C",
+  "volumeInfo": {
+    "title": "Gardens of the Moon",
+    "subtitle": "Book One of The Malazan Book of the Fallen",
+    "authors": [
+      "Steven Erikson"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2004-06-01",
+    "description": "\u003cp\u003e\u003cb\u003eVast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire in this first book in a major epic fantasy series from Steven Erikson.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eThe Malazan Empire simmers with discontent, bled dry by interminable warfare, bitter infighting and bloody confrontations with the formidable Anomander Rake and his Tiste Andii, ancient and implacable sorcerers. Even the imperial legions, long inured to the bloodshed, yearn for some respite. Yet Empress Laseen's rule remains absolute, enforced by her dread Claw assassins. \u003cbr\u003e\u003cbr\u003eFor Sergeant Whiskeyjack and his squad of Bridgeburners, and for Tattersail, surviving cadre mage of the Second Legion, the aftermath of the siege of Pale should have been a time to mourn the many dead. But Darujhistan, last of the Free Cities of Genabackis, yet holds out. It is to this ancient citadel that Laseen turns her predatory gaze. \u003cbr\u003e\u003cbr\u003eHowever, it would appear that the Empire is not alone in this great game. Sinister, shadowbound forces are gathering as the gods themselves prepare to play their hand... \u003cbr\u003e\u003cbr\u003eConceived and written on a panoramic scale, \u003ci\u003eGardens of the Moon \u003c/i\u003eis epic fantasy of the highest order--an enthralling adventure by an outstanding new voice.\u003cbr\u003e\u003cbr\u003eAt the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1429926589"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781429926584"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": false
+    },
+    "pageCount": 496,
+    "printedPageCount": 498,
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Fantasy / Epic",
+      "Fiction / Fantasy / Military",
+      "Fiction / Fantasy / Action & Adventure"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 97,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.12.13.0.preview.2",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=Jgth_BYe7V8C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71KTw8CDso71cmuoknkVdbtnrO7_CB95Xd2d_keIIaRKBEkTRS2NPeoX2jqOUX1M2Z660BAbYtbye-pQBf8IYy3H5DM__QHw_MqLzMX-NiJb5vIY2kV8TPE0ua88N_CNUcJbGY1&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=Jgth_BYe7V8C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71ddowWXaWZB0NfhvZ0t7P21gJyuWf6kKNhXxozYO9Pc8XclHoX9UITUFGO8KZ79tsGEhKq7SSUlOErEDrAqABYpTfqHSKW966GygXeyxOZy4PX_Wftz7-iikgk3-AH4cEnpXCU&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=Jgth_BYe7V8C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73WyCC-ORdSjSDt-xCviBgt3ehLQczt4fZ6YnIWPy-DGF44q66SrORs9PaXcKK7yLFjlAj9oG22Uo77fTjZp1SxFyKNzGWBF9aOyC8kG7fZSlthD_Yi31sDIHFecaYxOB4NZne6&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=Jgth_BYe7V8C&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Jgth_BYe7V8C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jgth_BYe7V8C"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "30"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 9.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=Jgth_BYe7V8C&rdid=book-Jgth_BYe7V8C&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 9990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 9990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Jgth_BYe7V8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

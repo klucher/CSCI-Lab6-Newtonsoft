@@ -1,0 +1,87 @@
+{
+  "kind": "books#volume",
+  "id": "uagODAAAQBAJ",
+  "etag": "+zLQAyFJpP0",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/uagODAAAQBAJ",
+  "volumeInfo": {
+    "title": "The Dark Tower I",
+    "subtitle": "The Gunslinger",
+    "authors": [
+      "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2016-05-03",
+    "description": "\u003cb\u003e“An impressive work of mythic magnitude that may turn out to be Stephen King’s greatest literary achievement” (\u003ci\u003eThe Atlanta Journal-Constitution\u003c/i\u003e), \u003ci\u003eThe Gunslinger\u003c/i\u003e is the first volume in the epic Dark Tower Series.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eA #1 national bestseller, \u003ci\u003eThe Gunslinger\u003c/i\u003e introduces readers to one of Stephen King’s most powerful creations, Roland of Gilead: The Last Gunslinger. He is a haunting figure, a loner on a spellbinding journey into good and evil. In his desolate world, which mirrors our own in frightening ways, Roland tracks The Man in Black, encounters an enticing woman named Alice, and begins a friendship with the boy from New York named Jake.\u003cbr\u003e \u003cbr\u003eInspired in part by the Robert Browning narrative poem, “Childe Roland to the Dark Tower Came,” \u003ci\u003eThe Gunslinger\u003c/i\u003e is “a compelling whirlpool of a story that draws one irretrievable to its center” (\u003ci\u003eMilwaukee Sentinel\u003c/i\u003e). It is “brilliant and fresh…and will leave you panting for more” (\u003ci\u003eBooklist\u003c/i\u003e).",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1501143514"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781501143519"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 288,
+    "printedPageCount": 304,
+    "dimensions": {
+      "height": "22.00 cm",
+      "width": "14.00 cm",
+      "thickness": "2.00 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Fantasy / Dark Fantasy",
+      "Fiction / Horror",
+      "Fiction / Media Tie-In",
+      "Fiction / Thrillers / Suspense",
+      "Fiction / Thrillers / Supernatural"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 228,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.7.1.0.preview.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=uagODAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72OLOkdvyLmpaYBejnEloYC37BQGAVchlMIzn3L1_JP4EHGfezpL1Ge5iVbEunw3_5mEn8tYzHpM_JrzQhu-sO_iZElUHEFi7oedGBkUvxilboYGR3Rt6h4BcXASl9E9CPXidMb&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=uagODAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE705PoEmO1OSRxBRtBLdWUB0nFvQCXXFON-k6u-QHAr3TwXSSt7HMgh1VVABVuXi3SsFXibz-JqJn3H3jDpTN4tHdwI_s3VwwC9dpd2g-FADzUnwQ8Vy70AZ9Md81QekU6EgnCm1&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=uagODAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73PyyCxmNwzNQsIbnm_BpLqOFHbur_SzlsXDs6vuV41OSQbu48LKuhN7RN-c1kCapVQz8zt1xuPP0P3VgaKCo6iYJwgz8UGkyjEVz8xtorYsCyvSxD1KKAFJyYl5danVNHIiCX7&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=uagODAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72msjUULe3s1EPvrlo_rWUPqrlv2RF2RFpSknJcpjsqlYTZhXyaEsl-giIKLB99kptCFaGvq0T9SzZZ-MkPLORLV7jO0H4_SVqLs5D6-kwQPsCJaHVjK3UUn15vcVXPCx_cJ8Ul&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=uagODAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70kZWJJe8StdX3aLDIy5TnwhPEt0BNbgFz3zOjHNtOI3D04OZhtcj8S7ccw9O9Hs23R2figovImHfAnSXYJfk4MfB_Luu_sJTwrygy_UBE8hyL-L9Cy5cUEotYuow3OrT_7uusB&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=uagODAAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE735Snh7INXFVpRsHjHXs7PeMhpRR0oeTgptZ1nLAU7kxumf3APuwWKhoDTnGYJcL5ddV05_HvuRqWlG51jyuFaF2OHeDOQ4ZRwgaJ7n__uKmsmKFzhPYcKKRzHSn9TF4tTuC84h&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=uagODAAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=uagODAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uagODAAAQBAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=uagODAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "kind": "books#volume",
+  "id": "wwspvAEACAAJ",
+  "etag": "4GR3DCG+0os",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/wwspvAEACAAJ",
+  "volumeInfo": {
+    "title": "The Blade Itself",
+    "authors": [
+      "Joe Abercrombie"
+    ],
+    "publisher": "Orbit",
+    "publishedDate": "2015-09-08",
+    "description": "\u003cb\u003eThe first novel in the First Law Trilogy and debut fantasy novel from \u003ci\u003eNew York Times\u003c/i\u003e bestseller, Joe Abercrombie.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003eLogen Ninefingers, infamous barbarian, has finally run out of luck. Caught in one feud too many, he's on the verge of becoming a dead barbarian -- leaving nothing behind him but bad songs, dead friends, and a lot of happy enemies. \u003cbr\u003e\u003cbr\u003e Nobleman, dashing officer, and paragon of selfishness, Captain Jezal dan Luthar has nothing more dangerous in mind than fleecing his friends at cards and dreaming of glory in the fencing circle. But war is brewing, and on the battlefields of the frozen North they fight by altogether bloodier rules. \u003cbr\u003e\u003cbr\u003e Inquisitor Glokta, cripple turned torturer, would like nothing better than to see Jezal come home in a box. But then Glokta hates everyone: cutting treason out of the Union one confession at a time leaves little room for friendship. His latest trail of corpses may lead him right to the rotten heart of government, if he can stay alive long enough to follow it. \u003cbr\u003e\u003cbr\u003e Enter the wizard, Bayaz. A bald old man with a terrible temper and a pathetic assistant, he could be the First of the Magi, he could be a spectacular fraud, but whatever he is, he's about to make the lives of Logen, Jezal, and Glokta a whole lot more difficult. \u003cbr\u003e\u003cbr\u003e Murderous conspiracies rise to the surface, old scores are ready to be settled, and the line between hero and villain is sharp enough to draw blood. \u003cbr\u003e\u003cbr\u003e \u003cb\u003eUnpredictable, compelling, wickedly funny, and packed with unforgettable characters, \u003ci\u003eThe Blade Itself\u003c/i\u003e is noir fantasy with a real cutting edge.\u003c/b\u003e\u003cbr\u003e \u003cb\u003e\u003cbr\u003e\u003c/b\u003e\u003cb\u003e\u003cbr\u003e\u003c/b\u003e\u003cb\u003e\u003cbr\u003e\u003c/b\u003e\u003cb\u003eFirst Law Trilogy\u003c/b\u003e\u003cbr\u003e \u003ci\u003eThe Blade Itself\u003c/i\u003e\u003cbr\u003e \u003ci\u003eBefore They Are Hanged\u003c/i\u003e\u003cbr\u003e \u003ci\u003eLast Argument of Kings\u003c/i\u003e\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e For more from Joe Abercrombie, check out:\u003cbr\u003e\u003cbr\u003e \u003cb\u003eNovels in the First Law world\u003c/b\u003e\u003cbr\u003e \u003ci\u003eBest Served Cold\u003c/i\u003e\u003cbr\u003e \u003ci\u003eThe Heroes\u003c/i\u003e\u003cbr\u003e \u003ci\u003eRed Country\u003c/i\u003e\u003cbr\u003e\u003ci\u003e\u003cbr\u003e\u003c/i\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0316387312"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780316387316"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 560,
+    "printedPageCount": 560,
+    "dimensions": {
+      "height": "24.00 cm",
+      "width": "15.20 cm",
+      "thickness": "3.80 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Fiction / Fantasy / Epic",
+      "Fiction / Action & Adventure",
+      "Fiction / Fantasy / Historical",
+      "Fiction / War & Military"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 106,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=wwspvAEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE72fQ_UCZmot5qmoLFs7FmTWJq1bc6m0NSryl2L1ZC8fdCHBjxnXXvzl26gxXcxa_12UJiZ3MCINm1W894FzdiEIzaaa5MYqbAtmIa7bl95X3uvaKmiHMPeXfDxJ66cXBsUFpQW3&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=wwspvAEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71vDO4uB5g61spgTgQip5o5ALIlV-8nHZhpd9gX5gPk56UlDCEx7GnD-62uVshD9XD3O383l1NQx2uyehtroF9UJ2mgVxh0gjHAi9yH0ZqnLKiadeNwgzvShEcIBwjorqJmcqgh&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=wwspvAEACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=wwspvAEACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wwspvAEACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=wwspvAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}
